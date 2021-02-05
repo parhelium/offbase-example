@@ -4,15 +4,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Feb 2021 18:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2021 18:10:54 GMT</lastBuildDate>
         <item>
-            <title><![CDATA[First line]]></title>
-            <description><![CDATA[<p>WOW !
-It works !</p>
+            <title><![CDATA[Second line]]></title>
+            <description><![CDATA[<h1 id="wow-">WOW !</h1>
+<p>It works !</p>
 ]]></description>
             <link>post/first-line</link>
             <guid isPermaLink="true">post/first-line</guid>
-            <pubDate>Fri, 05 Feb 2021 18:08:57 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2021 18:10:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
